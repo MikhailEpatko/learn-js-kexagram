@@ -1,1 +1,1 @@
-# Личный проект «Кекстаграм» 
+Learn js. Project "Kexagram".
